@@ -1,0 +1,8 @@
+data
+data-local/workdir
+data-local/images
+data-local/cache
+*.pyc
+results
+transient
+zca
