@@ -1,5 +1,10 @@
 # R2D2.pytorch
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/repetitive-reprediction-deep-decipher-for/semi-supervised-image-classification-on-2)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-2?p=repetitive-reprediction-deep-decipher-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/repetitive-reprediction-deep-decipher-for/semi-supervised-image-classification-on-cifar-2)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar-2?p=repetitive-reprediction-deep-decipher-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/repetitive-reprediction-deep-decipher-for/semi-supervised-image-classification-on-cifar)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-cifar?p=repetitive-reprediction-deep-decipher-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/repetitive-reprediction-deep-decipher-for/semi-supervised-image-classification-on-svhn)](https://paperswithcode.com/sota/semi-supervised-image-classification-on-svhn?p=repetitive-reprediction-deep-decipher-for)
+
 This is the PyTorch source code for [Repetitive Reprediction Deep Decipher for Semi-Supervised Learning](https://arxiv.org/abs/1908.04345). 
 
 ## Usage
